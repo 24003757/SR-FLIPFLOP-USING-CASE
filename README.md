@@ -38,12 +38,12 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 
-/* write all the steps invloved */
+Developed by: RegisterNumber: 24003757*/
 
 **PROGRAM**
 
 
-Developed by: RegisterNumber: 24003757*/
+
 ![de6 (2)](https://github.com/user-attachments/assets/9654cfe0-b8fb-40e8-b847-8acce4ddea09)
 
 
